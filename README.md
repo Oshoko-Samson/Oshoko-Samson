@@ -38,7 +38,6 @@ English (fluent) · Yoruba (fluent)
 
 ## Contact
 - Email: oshokosamson@gmail.com
-- Phone / WhatsApp: +234 808 765 3231
 - LinkedIn: https://www.linkedin.com/in/oshoko-samson-37b659354
 - Video portfolio: https://oshoko-samson-akorede.my.canva.site/korede-production
 - Photography portfolio: https://korede-production-portfolio.netlify.app
