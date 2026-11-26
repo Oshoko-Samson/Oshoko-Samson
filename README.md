@@ -4,6 +4,10 @@
 
 Based in Nigeria (UTC+1). I make sure the data behind AI systems is accurate, consistent, and ready to build on.
 
+## Featured work
+- [LLM Evaluation & Multimodal Data Annotation Guideline](https://github.com/Oshoko-Samson/llm-evaluation-annotation-guideline): a sample guideline covering rubric-based grading, safety labels, dataset validation, and escalation.
+- [Sentiment & Urgency Labeling Guideline](https://github.com/Oshoko-Samson/sentiment-urgency-labeling-guideline): a sample guideline for labeling customer messages, with rules, examples, and edge cases.
+
 ## What I do
 - Grade and evaluate LLM outputs through rubric-based review for accuracy, consistency, and safety (500+ projects, 87% reviewer approval)
 - Validate text and audio datasets against annotation guidelines (450+ datasets)
@@ -20,18 +24,13 @@ Based in Nigeria (UTC+1). I make sure the data behind AI systems is accurate, co
 Excel · SQL · PostgreSQL · Python · DBeaver · Zendesk · Premiere Pro · CapCut · Descript · DaVinci Resolve · Lightroom · Photoshop
 
 ## Experience
-- **Data Annotator & AI Linguistic Reviewer**, Pila8 AI (2022–Present)
-- **Software QA Tester**, uTest & Test IO (2023–2026)
-- **Customer Support Specialist & Marketer, Data Analysis Agent**, Zenith Bank (2019–Present): onboarded 400+ accounts monthly, resolved tickets in Zendesk, and analysed new-account data in Excel and Python
-- **Photographer, Cinematographer & Video Editor**, freelance (2018–Present): 10+ full productions and 300+ short-form videos for 12 brand clients
-- **Media & Drama Coordinator**, Celestial Church of Christ, Abeokuta (2022–2024)
+Data annotator and QA contractor (Pila8 AI since 2022, uTest & Test IO 2023–2026), with seven years in customer onboarding and support at Zenith Bank. Full details on [LinkedIn](https://www.linkedin.com/in/oshoko-samson-37b659354).
 
 ## Education and certifications
 - **B.Sc. Biology (Zoology)**, Federal University of Agriculture, Abeokuta (FUNAAB), 2019–2024
 - **Master's Degree, Theatre Arts**, Bowen University (part-time, in progress)
 - Data Analysis, Nigerian Youth Academy, Federal Ministry of Youth Development
 - Introduction to Agents, Mercor (2026)
-- Outstanding Performance, micro1 AI Interview (Oct 2026)
 
 ## Languages
 English (fluent) · Yoruba (fluent)
